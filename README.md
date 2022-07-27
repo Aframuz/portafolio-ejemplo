@@ -39,5 +39,3 @@ Es por ello que, en este desafío, deberás trabajar en los aspectos estructural
 -  URL Plantilla: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
 -  Autor: BootstrapMade.com
 -  Licencia: https://bootstrapmade.com/license/
-
-### Dónde encontrar cada requerimiento
