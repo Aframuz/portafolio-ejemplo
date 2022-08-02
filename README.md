@@ -31,6 +31,10 @@ Es por ello que, en este desafío, deberás trabajar en los aspectos estructural
    -  En el requerimiento 2, considera anexar la prueba a través de un vínculo de visualización.
    -  Cuida tu ortografía y redacción.
 
+## Dónde encontrar cada requerimiento
+
+Todos los requisitos están explicados en `desafios.html`, alternativamente hay una versión PDF
+
 ## Notas
 
 **Plantilla Usada**
